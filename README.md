@@ -66,3 +66,7 @@ A categorized collection of PDF books for learning and reference. All books live
 ### Aviation
 
 - *Flight: The Complete History of Aviation*
+
+---
+
+*This README is a living index of the digital bookshelf; add or remove entries as the collection changes.*
